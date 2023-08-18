@@ -8,6 +8,6 @@ Final app+class - Contains the code
 
 
 
-#Contributors
+# Contributors
 
 Suraj Prabhu, Dr. Jinying Chen
